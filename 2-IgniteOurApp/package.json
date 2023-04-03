@@ -1,0 +1,26 @@
+{
+  "name": "2-igniteourapp",
+  "version": "1.0.0",
+  "description": "learning about packages",
+  "main": "app.js",
+  "scripts": {
+    "test": "subrat. packages"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Subrat0802/Namaste-React.git"
+  },
+  "keywords": [
+    "subrat",
+    "packages"
+  ],
+  "author": "subrat mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Subrat0802/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/Subrat0802/Namaste-React#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
